@@ -1,5 +1,5 @@
 ![Header](./github-header-image(3).png?raw=true)
-
+<a href="https://www.linkedin.com/in/konrad-litwinowicz-51b41720b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <!--
 **Sendej7/Sendej7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
