@@ -1,6 +1,6 @@
 ![Header](./github-header-image(3).png?raw=true)
 <a href="https://www.linkedin.com/in/konrad-litwinowicz-51b41720b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://www.discordapp.com/users/411153383420854282"><img src=" 	https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height=25></a>
+<a href="https://www.discordapp.com/users/411153383420854282"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height=25></a>
 <a href="https://www.duolingo.com/profile/KonradLitw1"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" height=25></a>
 <a href="https://www.codingame.com/profile/8a7747c9fc1e05dbafa89b1eb01656826523035"><img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" height=25></a>
 <a href="https://www.codewars.com/users/Sendej7"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height=25></a>
