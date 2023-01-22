@@ -1,4 +1,4 @@
-![Header](./blob/main/github-header-image(3).png?raw=true)
+![Header](./github-header-image(3).png?raw=true)
 
 <!--
 **Sendej7/Sendej7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
