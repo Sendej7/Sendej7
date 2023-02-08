@@ -5,8 +5,7 @@
 <a href="https://www.codingame.com/profile/8a7747c9fc1e05dbafa89b1eb01656826523035"><img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" height=25></a>
 <a href="https://www.codewars.com/users/Sendej7"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height=25></a>
 <!-- <a href="https://leetcode.com/Sendej7/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height=25></a>-->
-<a href="https://www.hackerrank.com/seenday7/"><img src="https://user-images.githubusercontent.com/56590192/217535086-772457c7-014b-4f57-8dba-8fa692628be4.png
-" height=25></a>
+<a href="https://www.hackerrank.com/seenday7/"><img src="https://e7.pngegg.com/pngimages/891/900/png-clipart-logo-hackerrank-where-s-weed-java-hacker-thumbnail.png" height=25></a>
 <!--
 **Sendej7/Sendej7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
