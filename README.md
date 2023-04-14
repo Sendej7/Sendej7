@@ -4,8 +4,8 @@
 <a href="https://www.duolingo.com/profile/KonradLitw1"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" height=25></a>
 <a href="https://www.codingame.com/profile/8a7747c9fc1e05dbafa89b1eb01656826523035"><img src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=white" height=25></a>
 <a href="https://www.codewars.com/users/Sendej7"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height=25></a>
-<a href="https://www.hackerrank.com/seenday7/"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" height=25></a>
-<a href="https://github.com/BrightBitsTech"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height=25></a>
+<a href="https://www.hackerrank.com/seenday7/"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" height=25></a></br>
+<a href="https://github.com/BrightBitsTech">My Second Github<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height=50></a>
 <!-- <a href="https://leetcode.com/Sendej7/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height=25></a>-->
 <!--
 **Sendej7/Sendej7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
